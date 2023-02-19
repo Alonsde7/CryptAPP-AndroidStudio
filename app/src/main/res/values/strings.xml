@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CryptoApuesta</string>
+    <string name="todo">TODO</string>
+    <string name="descripcionDeImagen">TODO</string>
+    <string name="monedas">Monedas</string>
+    <string name="datos">Datos</string>
+    <string name="enunciadoPrecioCurrency">Precio</string>
+    <string name="BotonCambiarMoneda">Actuializar Precio</string>
+    <string name="PrecioEndollar">0$</string>
+    <string name="btc">Bitcoin ----- USDT</string>
+    <string name="hacer_apuesta">Hacer apuesta</string>
+    <string name="gr_fico_24h">Gráfico 24h   Bitcoin</string>
+    <string name="ver_datos">Ver Datos</string>
+    <string name="apuestas_incorrectas">Apuestas Incorrectas : </string>
+    <string name="apuestas_correctas">Apuestas Correctas : </string>
+    <string name="hacer_apuesta_que_sube">Sube</string>
+    <string name="hacer_apuesta_que_baja">Baja</string>
+    <string name="fecha">fecha</string>
+    <string name="sube">sube</string>
+    <string name="_0">0%</string>
+</resources>
